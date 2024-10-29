@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Anmol
+# 👋 Hello! I'm Anmol Khurana
 
 Welcome to my GitHub profile! I'm a passionate developer with experience in **C++**. Here, you’ll find projects that showcase my skills, interests, and contributions.
 
@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in **C+
 
 ## 🛠️ Technologies & Skills
 
-- **Languages**: C++
-- **Tools**: Git, Visual Studio Code, Markdown
+- **Languages**: C, C++, HTML, CSS, Python, Block chain, etc.
+- **Tools**: Git, Visual Studio Code, Dev++.
 - **Development Focus**: Building efficient and scalable code solutions
 
 ---
@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in **C+
 
 ## 📫 Let's Connect!
 
-- **LinkedIn**: [linkedin.com/in/anmol](https://www.linkedin.com/in/anmol)
-- **Twitter**: [@anmol_dev](https://twitter.com/anmol_dev)
+- **LinkedIn**: [My Linkedin](https://www.linkedin.com/in/anmolkhurana5205/)
+- **Instagram**: [My Instagram](https://www.instagram.com/anmol.khurana.5205/)
 
 Feel free to connect! I'm always open to discussing new projects, collaborations, and tech insights.
 
@@ -33,7 +33,7 @@ Feel free to connect! I'm always open to discussing new projects, collaborations
 
 ## 🎉 Fun Facts
 
-- **Favorite Tech**: C++
+- **Favorite Tech**: C, C++, HTML, CSS, Python, Block chain, etc.
 - **Current Focus**: Exploring advanced algorithms and efficient coding practices.
 - **Goal**: To contribute to impactful projects and expand my expertise in C++.
 
