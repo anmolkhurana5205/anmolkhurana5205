@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in **C+
 
 ## 🛠️ Technologies & Skills
 
-- **Languages**: C, C++, HTML, CSS, Python, Block chain, etc.
+- **Languages**: C, C++, HTML, CSS, JS, Python, Block chain, etc.
 - **Tools**: Git, Visual Studio Code, Dev++.
 - **Development Focus**: Building efficient and scalable code solutions
 
