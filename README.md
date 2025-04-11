@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in **C+
 
 | Project | Description |
 | ------- | ----------- |
-| [C++ Basics & Beyond](https://github.com/Anmol/Cpp-Basics-and-Beyond) | A repository to help beginners master C++ and take it to the next level. |
-| [Govt. Updates Tracker](https://github.com/Anmol/Govt-Updates-Tracker) | Stay updated on government announcements, bonuses, and employee incentives in this organized resource. |
-| [Efficient Algorithms](https://github.com/Anmol/Efficient-Algorithms) | A collection of optimized algorithms implemented in C++. |
+| []() | . |
+| []() | . |
+| []() | . |
 
 ---
 
