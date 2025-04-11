@@ -33,9 +33,9 @@ Feel free to connect! I'm always open to discussing new projects, collaborations
 
 ## 🎉 Fun Facts
 
-- **Favorite Tech**: C, C++, HTML, CSS, Python, Block chain, etc.
-- **Current Focus**: Exploring advanced algorithms and efficient coding practices.
-- **Goal**: To contribute to impactful projects and expand my expertise in C++.
+- **Favorite Tech**: Block Chain, Cryptography, Web-dev.
+- **Current Focus**: Exploring advanced algorithms in asymmetric cryptography, efficient coding practices, DSA, Cool Projects.
+- **Goal**: .
 
 ---
 
