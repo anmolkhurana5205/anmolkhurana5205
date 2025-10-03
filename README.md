@@ -15,8 +15,6 @@ Here, you’ll find projects that showcase my skills, learning journey, and cont
 
 ## 🌟 Featured Projects
 
-## 🌟 Featured Projects
-
 | Project | Description |
 | ------- | ----------- |
 | [06-far-away-v1](https://github.com/anmolkhurana5205/06-far-away-v1) | A React-based travel packing list app to track items you need for your trips. |
