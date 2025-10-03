@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in **C+
 
 ## 🛠️ Technologies & Skills
 
-- **Languages**: C, C++, HTML, CSS, JS, Python, Block chain, etc.
-- **Tools**: Git, Visual Studio Code, Dev++.
-- **Development Focus**: Building efficient and scalable code solutions
+- **Languages**: C, C++, HTML, CSS, JS, Python, Block chain, Cryptography, React, solidity, etc.
+- **Tools**: Git, Visual Studio Code, Dev++, Bash, Remix, SandBox, etc.
+- **Development Focus**: Building efficient and scalable code solutions 
 
 ---
 
@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in **C+
 
 - **LinkedIn**: [My Linkedin](https://www.linkedin.com/in/anmolkhurana5205/)
 - **Instagram**: [My Instagram](https://www.instagram.com/anmol.khurana.5205/)
+- **X**: [My X](https://x.com/anmolkhuranaa/)
 
 Feel free to connect! I'm always open to discussing new projects, collaborations, and tech insights.
 
@@ -33,9 +34,9 @@ Feel free to connect! I'm always open to discussing new projects, collaborations
 
 ## 🎉 Fun Facts
 
-- **Favorite Tech**: Block Chain, Cryptography, Web-dev.
-- **Current Focus**: Exploring advanced algorithms in asymmetric cryptography, efficient coding practices, DSA, Cool Projects.
-- **Goal**: .
+- **Favorite Tech**: Block Chain, Cryptography.
+- **Current Focus**: Exploring advanced algorithms in asymmetric cryptography, Learning Solidity, efficient coding practices, DSA, Cool Projects.
+- **Goal**: [Short Term (2025)] Research Paper, 300 DSA problems, Paid Internship, 400 followers on X, MacBook.
 
 ---
 
