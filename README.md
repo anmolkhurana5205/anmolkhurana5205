@@ -17,7 +17,9 @@ Here, you’ll find projects that showcase my skills, learning journey, and cont
 
 | Project | Description |
 | ------- | ----------- |
-| [06-far-away-v1](https://github.com/anmolkhurana5205/06-far-away-v1) | A React-based travel packing list app to track items you need for your trips. |
+| [eat-n-split-v1](https://github.com/anmolkhurana5205/eat-n-split-v1) | 
+A simple and interactive Bill Splitting App built using React that helps you manage shared expenses with friends. |
+| [far-away-v1](https://github.com/anmolkhurana5205/far-away-v1) | A React-based travel packing list app to track items you need for your trips. |
 | [FundMe50-Solidity](https://github.com/anmolkhurana5205/FundMe50-Solidity) | A crowdfunding smart contract in Solidity where users can fund only above $50 and the owner can withdraw funds. (Deployed on Sapolia testnet) |
 | [pizza-menu1-react](https://github.com/anmolkhurana5205/pizza-menu1-react) | A simple pizza ordering menu built using React to practice props and components. |
 | [javascript-amazon-clone-project](https://github.com/anmolkhurana5205/javascript-amazon-clone-project) | An Amazon-like e-commerce front-end clone built with HTML, CSS, and JavaScript. |
