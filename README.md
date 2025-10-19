@@ -78,6 +78,7 @@ Here, you’ll find projects that showcase my skills, learning journey, and cont
 <img alt="Bash" src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
 <img alt="WSL" src="https://img.shields.io/badge/WSL-%234D4D4D.svg?style=for-the-badge&logo=linux&logoColor=white"/>
+<img alt="Wordpress" src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
 ---
