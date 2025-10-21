@@ -1,9 +1,10 @@
 # 👋 Hello! I'm Anmol Khurana
 
-I'm Anmol Khurana, a passionate developer with strong experience in **C++**, **JavaScript**, and  basic experience in **Web3 (Solidity)**.  
-Here, you’ll find projects that showcase my skills, learning journey, and contributions in areas like frontend development, blockchain, and problem-solving. 🚀  
+🚀 I'm Anmol Khurana, a developer skilled in C++, React, Node.js, Express.js, Solidity, and testing. I love building scalable web apps and exploring Web3 technologies.
 
----
+## 🌐 My Portfolio
+Check out my portfolio at [anmolkhurana.me](anmolkhurana5205.github.io)
+ — an aesthetic showcase of my projects, skills, education, certifications, achievements, testimonials and anything else you need to see my full stack journey in one place!
 
 ## 🤝 Connect with me
 
@@ -14,7 +15,6 @@ Here, you’ll find projects that showcase my skills, learning journey, and cont
 <a href="https://www.facebook.com/anmol.khurana.5205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anmol's facebook" height="30" width="40" /></a>
 </p>
 
----
 
 ## 🚀 Languages and Tools
 
@@ -81,7 +81,6 @@ Here, you’ll find projects that showcase my skills, learning journey, and cont
 <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
----
 
 ## 🌟 Featured Projects
 
@@ -98,13 +97,5 @@ Here, you’ll find projects that showcase my skills, learning journey, and cont
 | [My-website](https://github.com/anmolkhurana5205/My-website) | A personal website project built with HTML and CSS. |
 | [quiz-app](https://github.com/anmolkhurana5205/quiz-app) | An interactive quiz application built with JavaScript. |
 | [youtube-clone](https://github.com/anmolkhurana5205/youtube-clone) | A front-end YouTube clone built using HTML and CSS. |
-
----
-
-## 🎉 Fun Facts
-
-- **Favorite Tech**: Block Chain, Cryptography.
-- **Current Focus**: Exploring advanced algorithms in asymmetric cryptography, Learning Solidity, efficient coding practices, DSA, Cool Projects.
-- **Goal**: [Short Term (2025)] Research Paper, 300 DSA problems, Paid Internship, 400 followers on X, MacBook.
 
 ---
