@@ -3,7 +3,7 @@
 🚀 I'm Anmol Khurana, a developer skilled in C++, React, Node.js, Express.js, Solidity, and testing. I love building scalable web apps and exploring Web3 technologies.
 
 ## 🌐 My Portfolio
-Check out my portfolio at [anmolkhurana.me](anmolkhurana5205.github.io)
+Check out my portfolio at [anmolkhurana.me](https://anmolkhurana5205.github.io/)
  — an aesthetic showcase of my projects, skills, education, certifications, achievements, testimonials and anything else you need to see my full stack journey in one place!
 
 ## 🤝 Connect with me
