@@ -88,6 +88,7 @@ Check out my portfolio at [anmolkhurana.me](https://anmolkhurana5205.github.io/)
 | ------- | ----------- |
 | Usepopcorn  (Currently Working) | A movie discovery app where users can explore films from around the world, rate them, and create their own personalized watchlist for the ultimate movie experience. |
 | [Bloggy](https://github.com/anmolkhurana5205/bloggy) | Bloggy is a full-stack blogging web app built with Next.js that allows users to read existing blogs and publish their own seamlessly. |
+| [URL_Shortener](https://github.com/anmolkhurana5205/url_shortener) | A simple project shortening your URL using the tinyurl API (that's it, nothing much about it. |
 | [Chain Polling V1](https://github.com/anmolkhurana5205/chain_polling_v1) | A decentralized polling DApp where users can securely create and vote on polls, ensuring transparency and immutability through blockchain, with seamless MetaMask integration for easy participation. |
 | [eat-n-split-v1](https://github.com/anmolkhurana5205/eat-n-split-v1) | A simple and interactive Bill Splitting App built using React that helps you manage shared expenses with friends. |
 | [far-away-v1](https://github.com/anmolkhurana5205/far-away-v1) | A React-based travel packing list app to track items you need for your trips. |
