@@ -9,10 +9,7 @@ Check out my portfolio at [anmolkhurana.me](https://anmolkhurana5205.github.io/)
 ## 🤝 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/anmolkhurana5205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol's linkedin" height="30" width="40" /></a>
-<a href="https://x.com/anmolkhuranaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anmol's twitter" height="30" width="40" /></a>
-<a href="https://www.instagram.com/anmol.khurana.5205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anmol's instagram" height="30" width="40" /></a>
-<a href="https://www.facebook.com/anmol.khurana.5205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anmol's facebook" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anmolkhurana5205" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a><a href="https://x.com/anmolkhuranaa" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a><a href="https://www.instagram.com/anmol.khurana.5205" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a><a href="https://www.facebook.com/anmol.khurana.5205" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 </p>
 
 
