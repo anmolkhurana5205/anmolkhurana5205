@@ -86,6 +86,8 @@ Check out my portfolio at [anmolkhurana.me](https://anmolkhurana5205.github.io/)
 
 | Project | Description |
 | ------- | ----------- |
+| [FaceTM](https://github.com/anmolkhurana5205/FaceTM) | A revolutionary full-stack authentication and payment platform that allow users to authenticate payments through their FACE descriptors. |
+| [AuthForge](https://github.com/anmolkhurana5205/AuthForge) | A secure Authentication System built using Next.js 16 that helps you manage user access effortlessly. |
 | Usepopcorn  (Currently Working) | A movie discovery app where users can explore films from around the world, rate them, and create their own personalized watchlist for the ultimate movie experience. |
 | [Bloggy](https://github.com/anmolkhurana5205/bloggy) | Bloggy is a full-stack blogging web app built with Next.js that allows users to read existing blogs and publish their own seamlessly. |
 | [URL_Shortener](https://github.com/anmolkhurana5205/url_shortener) | A simple project shortening your URL using the tinyurl API (that's it, nothing much about it. |
